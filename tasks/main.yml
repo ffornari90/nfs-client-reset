@@ -1,0 +1,3 @@
+---
+# tasks file for nfs-client-reset
+- import_tasks: unmount_fs.yaml
